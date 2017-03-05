@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CityList</string>
+
+    <string name="hint_search_box">请输入城市名或拼音</string>
+    <string name="nothing_found">没有搜索结果~</string>
+</resources>
